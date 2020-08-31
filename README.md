@@ -1,3 +1,14 @@
+# Animaciones con hooks
+
+<p align="center">
+Un ejemplo sencillo de como ejecutar un efecto por medio de hooks
+</p>
+
+<p align="center">
+  <a href="https://github.com/stylder">
+    <img alt="Made by Santiago García Cabral" src="https://img.shields.io/badge/made-by%20Santiago%20Garc%C3%ADa%20Cabral-green">
+  </a>
+</p>
 El 12 de marzo de 2019, la comunidad React dio la bienvenida a la versión 59.0 de React Native que trajo el soporte de React Hooks en el desarrollo nativo. 
 El lanzamiento de esta versión proporcionó una gran cantidad de recursos impresionantes que parecen ser bien aceptados por la comunidad y, en consecuencia, crean una nueva forma de hacer las cosas. 
 
